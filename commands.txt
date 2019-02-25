@@ -5,6 +5,8 @@ mkdir
 ls 
 cd
 
-Another shortcut
 
+CTRL-ALT-T ----opens terminal
+CTRL-L ----clears terminal
+ctrl-D ----Close terminal
 ALT + F4 for getting help
