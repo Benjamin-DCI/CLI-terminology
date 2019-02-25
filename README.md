@@ -1,2 +1,2 @@
 # CLI-terminology
-A collection of terminal commands
+>A collection of terminal commands
