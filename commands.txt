@@ -4,7 +4,6 @@ pwd
 mkdir
 ls 
 cd
-rm
 
 
 CTRL-ALT-T ----opens terminal
